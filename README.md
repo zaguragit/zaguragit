@@ -14,9 +14,7 @@
 
 ---
 
-### My stats
-
-<img align="left" alt="leoxshn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=leoxshn&show_icons=true&hide_border=true&icon_color=17c25b&hide_title=true" />
+<img align="left" alt="leoxshn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=leoxshn&show_icons=true&hide_border=true&title_color=1155ff&icon_color=17c25b&hide_title=true" />
 
 [twitter]: https://twitter.com/leoxshn
 [instagram]: https://instagram.com/leoxshn
