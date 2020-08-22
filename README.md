@@ -20,5 +20,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoxshn&layout=compact&hide=html" alt="leoxshn"/></p>
 
 ### Connect with me:
-[<img align=left alt="leoxshn | Twitter" width=22px src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg>](https://twitter.com/leoxshn)
-[<img align=left alt="leoxshn | Instagram" width=22px src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg>](https://twitter.com/leoxshn)
+[<img align=left alt="leoxshn | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/leoxshn)
+[<img align=left alt="leoxshn | Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://twitter.com/leoxshn)
