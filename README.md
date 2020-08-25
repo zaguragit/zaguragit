@@ -5,9 +5,8 @@
 - 🌱 Learning: compiler stuff
 - 💬 Ask me about android stuff, specially launchers
 
-
 ### My skills:
-<table style="border:none;"><tr>
+<table><tr>
 <td>
   <img width=40 height=40 alt=android src=https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg>
   <img width=40 height=40 alt=css3 src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg>
@@ -19,7 +18,7 @@
   <img width=40 height=40 alt=gimp src=https://devicons.github.io/devicon/devicon.git/icons/inkscape/inkscape-original-wordmark.svg>
 </td>
 <td>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoxshn&layout=compact&hide=html" alt="leoxshn"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoxshn&layout=compact&title_color=000000" alt="leoxshn"/>
 </td>
 </tr></table>
 
