@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Leo</h1>
-<h3 align="center">A FOSS app developer</h3>
-
 - 🔭 Currently working on: the [mango](https://github.com/leoxshn/mangoLang_kt) compiler
 - 🌱 Learning: OpenGL
 - 💬 Ask me about: android stuff
