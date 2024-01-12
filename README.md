@@ -1,4 +1,5 @@
-- 🌱 Learning: OpenGL, Gtk4
-- 💬 Ask me about: Anything, but I don't guarantee a helpful answer
+# Hi, I'm Zagura
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaguragit&layout=compact&title_color=000000" alt="Most used languages"/>
+- 💜 I like: drawing, world building, programming, 3D engines, conlangs 
+- 🗺️ I live in: Barcelona (Catalonia, Spain)
+- 💬 Ask me about: Anything, but I don't guarantee a helpful answer
